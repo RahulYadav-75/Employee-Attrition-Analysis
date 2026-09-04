@@ -40,6 +40,64 @@ The dataset contains employee information such as:
 **Dataset Size:** 1,480 employees and 38 columns
 
 ---
+## 🔄 Data Analysis Workflow
+
+The project follows a structured data analysis process:
+
+```text
+1. Data Understanding
+        ↓
+2. Data Cleaning
+        ↓
+3. Univariate Analysis
+        ↓
+4. Attrition Analysis
+        ↓
+5. Categorical vs Attrition
+        ↓
+6. Numerical vs Attrition
+        ↓
+7. Correlation Analysis
+        ↓
+8. 20+ Business Insights
+        ↓
+9. Recommendations
+        ↓
+10. Dashboard
+```
+
+### 📌 Workflow Details
+
+**1. Data Understanding**
+Understand the dataset, columns, data types, and employee information.
+
+**2. Data Cleaning**
+Handle missing values, remove duplicates, check incorrect values, and prepare the data.
+
+**3. Univariate Analysis**
+Analyze individual variables such as Age, Gender, Department, Salary, and Job Role.
+
+**4. Attrition Analysis**
+Analyze the overall employee attrition rate and understand the distribution of employees who left and stayed.
+
+**5. Categorical vs Attrition**
+Compare categorical variables such as Job Role, Department, OverTime, Gender, and Salary Slab with Attrition.
+
+**6. Numerical vs Attrition**
+Compare numerical variables such as Age, Monthly Income, Distance From Home, and Years at Company with Attrition.
+
+**7. Correlation Analysis**
+Study relationships between numerical variables and identify important patterns.
+
+**8. 20+ Business Insights**
+Convert the analysis into meaningful business insights related to employee turnover.
+
+**9. Recommendations**
+Suggest strategies that can help HR teams reduce employee attrition.
+
+**10. Dashboard**
+Create an interactive dashboard to present important KPIs, charts, and business insights.
+
 
 ## 🛠️ Technologies Used
 
