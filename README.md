@@ -7,6 +7,10 @@ This project analyzes employee data to understand the main factors that influenc
 The analysis uses Python and data visualization techniques to identify patterns related to **age, salary, overtime, job role, department, job satisfaction, work-life balance, and experience**.
 
 ---
+## Dashboard Preview
+
+📸![Dashboard](https://github.com/RahulYadav-75/Employee-Attrition-Analysis/blob/main/Employee_Attrition_Analysis.png)
+
 
 ## 🎯 Objectives
 
@@ -107,6 +111,7 @@ Create an interactive dashboard to present important KPIs, charts, and business 
 * Matplotlib
 * Seaborn
 * Jupyter Notebook
+* power BI 
 
 ---
 
